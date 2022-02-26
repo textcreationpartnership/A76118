@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sea-mans diall, or, The mariners card: directing unto the safe port of Christian obedience. And shewing the reasons which moved the authour, a sea commander, to returne unto his loyalty, and the service of the Soveraigne. As it was sent in a letter to a private friend, to be published from him unto the seamen; and is by this friend thus intituled: and dedicated unto the consideration, and commended unto the practise of all honest true hearted sea-men of England.</title>
+            <author>Batten, William, Sir, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76118</idno>
+            <idno type="STC">Wing B1153</idno>
+            <idno type="STC">Thomason E459_14</idno>
+            <idno type="EEBO-CITATION">99864528</idno>
+            <idno type="PROQUEST">99864528</idno>
+            <idno type="VID">162120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162120)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sea-mans diall, or, The mariners card: directing unto the safe port of Christian obedience. And shewing the reasons which moved the authour, a sea commander, to returne unto his loyalty, and the service of the Soveraigne. As it was sent in a letter to a private friend, to be published from him unto the seamen; and is by this friend thus intituled: and dedicated unto the consideration, and commended unto the practise of all honest true hearted sea-men of England.</title>
+                  <author>Batten, William, Sir, d. 1667.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.B. = William Batten.</note>
+                  <note>Dated and signed at end: From the Downes, Aug. 10. 1648. W.B.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162120:1" rendition="simple:additions"/>
+            <p>THE SEA-MANS DIALL, OR, THE MARINERS CARD: Directing unto the ſafe Port of CHRISTIAN OBEDIENCE.</p>
+            <p>And ſhewing the reaſons which moved the Authour, A Sea Commander, to returne unto his Loyalty, and the ſervice of his Soveraigne.</p>
+            <p>As it was ſent in a Letter to a private Friend, to be pub<g ref="char:EOLhyphen"/>liſhed from him unto the Seamen; and is by this Friend thus intituled:</p>
+            <p>And Dedicated unto the conſideration, and commen<g ref="char:EOLhyphen"/>ded unto the practiſe of all honeſt true hearted Sea-men of England.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162120:2"/>
+            <pb n="3" facs="tcp:162120:2"/>
+            <head>The Seamans Diall, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen, and deare fellow Seamen:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Would no wayes have you to wonder, that notwithſtanding the Oathes I have taken, and the ingagements I have made, together with my credit, and the truſt the Parliament put in me, I ſhould nevertheleſſe leave the Parliament, and now betake my ſelfe unto the ſervice of my Soveraigne gracious King <hi>Charles,</hi> in which I am reſolved to live and dye.</p>
+            <p>For my Oathes, the Solemne League and Covenant, binde us unto the preſervation of Religion, and Liberties, and to maintaine, and defend the Kings Perſon and Authority.</p>
+            <p>Concerning Religion, ſince wee tooke the Covenant that is almoſt quite loſt, and that which ought to be but One, is now increaſed into ſo many, that the Religion of theſe times, is like unto a Common-Queane, that hath borne a Childe unto every Whoremaſter in the Pariſh, and hath as many names and ſir<g ref="char:EOLhyphen"/>names for her Baſtards, as ſhe hath had Fornicators for their Fathers; and therefore is it that ſince wee left the old Prote<g ref="char:EOLhyphen"/>ſtant Religion of the Church of England, which King <hi>Charles</hi> well maintained, Anabaptiſts, Browniſts, Fameliſts, Eraſtians, Quakers, Shakers, Independents, and many more Sects which are unworthy the naming, are ſo ripe amongſt us, becauſe wee have left our firſt love, and our firſt faith, and are gone almoſt every one as the Scripture ſayes, a whoring after our owne in<g ref="char:EOLhyphen"/>ventions; ſo that the truth and life of Religion is even quite loſt in us; and you know fellow ſeamen, that there was never ſo much cunning and cozening, and ſuch deceipt in trade amongſt us, as ſince theſe holy profeſſors began to increaſe: Beſides how for our wavering, and fickleneſſe in Religion are we mar<g ref="char:EOLhyphen"/>ked and pointed at beyond the Seas: And no marvell wee are become a ſcorne unto others, if wee conſider how much worſe and more corrupt wee are growne in our manners; for ſince this new preaching and praying came amongſt us, I ſee no a<g ref="char:EOLhyphen"/>mendment in our lives, onely our profeſſors can ſinne with
+<pb n="4" facs="tcp:162120:3"/>more ſecreſie and cunning, and doe allow that unto themſelves under ſome name in Religion, which they condemne in others, whoring, and cheating, and lying, and diſſembling, being no faults in theſe men, when they will openly raile at the merri<g ref="char:EOLhyphen"/>ments or drunkeneſſe, which I doe not excuſe of other men; as though Almighty God, and they ſay ſo too, would ſee no ſinne in theſe Saints, and you may obſerve this ſort of men, much more ambitious and coveteous then other men are: You ſee that our old honeſt preaching, which gave us inſtruction for our converſation towards God and man, and to lead our lives in all honeſty and godlineſſe of living, is turned into rayling againſt the King, and the Biſhops, and the Cavaliers, and our old go<g ref="char:EOLhyphen"/>vernment in Church and Common-wealth, under which God did much more bleſſe us then now; yea not onely the Mini<g ref="char:EOLhyphen"/>ſters, but every other man preaches amongſt us, and men that cannot well read will be expounding the Scriptures, though St. <hi>Paul</hi> ſays there are many things in them hard to be underſtood.</p>
+            <p>And ſince the booke of Common-prayer, which I have heard, the Martyrs of the Proteſtant Religion gathered together was ſuppreſſed, every man prayeth and prates as he pleaſeth, and men are become more confident and familiar with God, and be much leſſe humble then ever the Saints, or Chriſt him<g ref="char:EOLhyphen"/>ſelfe were in their prayers ſet downe unto us in the Scripture, praying for nothing but what may pleaſe them, or for a bleſſing upon the plots of the Parliament; yet theſe who doe thus de<g ref="char:EOLhyphen"/>ſtroy Religion, are wee ſee the men whom the Parliament prin<g ref="char:EOLhyphen"/>cipally encourage, which ſure cannot be thought the preſervati<g ref="char:EOLhyphen"/>on of Religion according unto the Covenant.</p>
+            <p>For our liberties, though I cannot I praiſe God much com<g ref="char:EOLhyphen"/>plaine my ſelfe, yet I have heard ten times more ſtories of the oppreſſion of the Subjects ſince the Parliament ſate, then in the whole Reigne of King <hi>James,</hi> and King <hi>Charles;</hi> yet wee know how many worthy Commanders and Seamen have been put out of their places, and caſt into priſon, <hi>[as Stradling, Ket<g ref="char:EOLhyphen"/>tleby, Aſhly, and others,]</hi> unto the utter undoing of their wives and children, without any examination or offence pro<g ref="char:EOLhyphen"/>ved, but meerely for ſuſpition that they loved the King; were
+<pb n="5" facs="tcp:162120:3"/>plainely ſee there is no Law, but the will of the Parliament, and whereas before it was lawfull to ſue the King himſelfe in any of the Courts, now a Parliament man muſt not be toucht: And who can ſay that ever he could get any juſtice againſt a Parliament man by a Petition unto the Houſes?</p>
+            <p>In the Covenant wee have ſworne to defend the Kings Perſon and Authority; yet wee know that he hath been long kept ſo ſtraight a Priſoner, that the meaneſt Sub<g ref="char:EOLhyphen"/>ject would have thought himſelfe very much wronged to have been kept ſo long in priſon without a hearing; for the Kings Authority, the very name of that is ſcarce left us, when it is become a great fault to pray for the King, or to drinke unto his health; although Gods word bids us pray for Kings, 1 <hi>Tim.</hi> 2.2. And if the leaſt ſigne of duty, and well wiſhing unto him can be diſcovered; it is proofe e<g ref="char:EOLhyphen"/>nough to put a man out of any place of profit or truſt. You ſee how wel the Parliament have maintained the Kings Au<g ref="char:EOLhyphen"/>thority, when that they have voted that no further Addreſ<g ref="char:EOLhyphen"/>ſes be made unto him, and when the Army have in their De<g ref="char:EOLhyphen"/>claration told us, That they are reſolved to ſettle the go<g ref="char:EOLhyphen"/>vernment without a King, and againſt him, and againſt all that take part with him; which is the ſame thing, as to ſay, That they will have no King at all to raigne over them: There can be no man ſo ſilly ſure, as to thinke that the Parli<g ref="char:EOLhyphen"/>ament or Army ever thinke to have a King, when they will not proceed againſt <hi>Rolph,</hi> who hath three witneſſes to prove againſt him a deſigne to take away the Kings life by the perſwaſion of the Army, becauſe no doubt many of both Houſes had their hands with him in the plot.</p>
+            <p>For the Covenant, though I could have been well con<g ref="char:EOLhyphen"/>tented that I had never taken it; I believe I have kept it better in leaving the Parliament, then I ſhould have done by ſtaying in their ſervice; for they have put downe both Religion, and the King, and broken the Covenant in every point, but in pulling downe the Prelates, and that it muſt be thought was to get the Biſhops Lands for themſelves; for Popery, wee ſee they paſſe not much of it.</p>
+            <pb n="6" facs="tcp:162120:4"/>
+            <p>The Covenant was for the preſervation of Religion, and li<g ref="char:EOLhyphen"/>berties, and to maintaine the Kings Perſon and authority, this Oath I tooke, and ſo far will keepe it (God aſſiſting) preſerve to my power the Proteſtant Religion, which the Parliament practiſe to ſuppreſſe; and defend the King, whom the Parlia<g ref="char:EOLhyphen"/>ment would depoſe: they were the ends for which I tooke the Oath; I breake not my Oath and truſt, when I keepe the end of my Oath and truſt, which were to preſerve Religion, and defend the King; if they will (as they do) deſtroy both, it is they have broke their Oath and truſt; and not I; for I would never have undertaken a truſt to deſtroy theſe two things, which every Chriſtian ought to ſerve and honour, his Religion and King, which ſince the Parliament (as all men ſee) have done, let them truſt unto themſelves, and their Sectaries; no ho<g ref="char:EOLhyphen"/>neſt man that hath a conſcience unto God, can keepe ſuch a truſt, unleſſe he will commit the greateſt ſinne againſt God, and his owne Conſcience: and therefore deare fellow Sea-men be no longer abuſed by the devices of the Parliament, but re<g ref="char:EOLhyphen"/>turne unto your duty of obedience unto God and the King, Give unto God the things that are Gods, and unto Caeſar the things that are Caeſars <hi>Matt.</hi> 22.21. joyne your hearts and hands with us your Brethren now in the Kings ſervice, to re<g ref="char:EOLhyphen"/>ſtore the proteſtant Religion, and his Majeſtyes Religion ought to be one and the ſame, we ought not to halt betweene two Religions, 1. <hi>Kings</hi> 18.19. There are now inſtead of two Religions more then the Moone hath changes in the yeare: let us ſet up the old proteſtant Religion, uſed in King <hi>Edwards</hi> dayes, in bleſſed Queene <hi>Elizabeths</hi> dayes, in King <hi>James</hi> his happy dayes, and in the Raigne of King <hi>Charles,</hi> which was a proſperous time, untill the Parliament Ruled, and ſuffred him not to Raigne: Let us reſtore the King who hath beene more wronged then ever Prince was; Gods word commands us to honour our King, not to think ill of him, much leſſe to ſpeake ill of him, and ſurely leaſt of all to lift up our hands or ſight a<g ref="char:EOLhyphen"/>gainſt him, which whoſoever doth ſhall receive unto himſelfe damnation, 1. <hi>Pet.</hi> 2.17. <hi>Exod.</hi> 22.8. <hi>Eccl.</hi> 10.20. <hi>Job</hi> 34.18. 1. <hi>Sam.</hi> 26.9. <hi>Prov.</hi> 30.31. <hi>Ecle.</hi> 8.2. <hi>Rom.</hi> 13.1. Our
+<pb n="7" facs="tcp:162120:4"/>King is a good King, a moſt gracious Prince, tender of his Subjects, loving to his Queene, carefull of his Children, cour<g ref="char:EOLhyphen"/>teous to his people, bountifull to his Servants, zealous towards God; his whole life was never ſtained with a foule fault, what man is there in both the Houſes like him for converſation? what leading man is there amongſt them that may not be mar<g ref="char:EOLhyphen"/>ked forth by ſome ſinne? let us then lend our helpe unto him, and pull downe his Enemies: The ſtrengths of the Kingdome (whereof the Navy are the chiefe) are by the Law the Kings; I have heard that what in the time of Peace is a private mans property if it be a ſtrength (put to the caſe a Caſtle or ſhip of de<g ref="char:EOLhyphen"/>fence) during time of war becomes the Kings, by the Law of the Land: the Parliament have wreſted the King out of his Rights, out of the ſtrengths of the Kingdome, both by Sea and Land: It is in your power in part to right him, and to deliver unto him not onely what is always his owne, the Royall Navy, but alſo what this war maks his the uſe of all veſſels of defence.</p>
+            <p>The Sea-men are the wall of this Iland, do your duties, there is no man can put a truſt upon you or you receive any, but that which ſtands with your duty to your Prince, which you owe unto him, and whilſt you do you make no breach of truſt unto any other; for you do but what honeſty requires, give every man his owne, and this we ought to do, or otherwiſe you joyne with them that wrong the King, in not giving unto him what the Lawes of the Land give unto him: for ſuppoſe a man take away a purſe of money upon the high-way from ano<g ref="char:EOLhyphen"/>ther and gives me who know not be came by it by robbery, this purſe to keep, afterwards I certainely finde that the money is not his, but an honeſt mans from whom he tooke it by violence: unto which of the two (think you) am I bound to reſtore the purſe? whether unto him who gave it me in truſt to keep, or unto the true owner? Certainely unto the true owner, when I know him to be ſo, and not unto the robber; for then I make my ſelfe a thiefe with him; for he cannot truſt me with that which is properly another mans, and the Lawes of God and man, bids us give unto every man that which is his owne; and ſo would I wiſh you deare
+<pb n="8" facs="tcp:162120:5"/>fellow Sea-men to do, and what I ſpeake unto you, I ſpeake likewiſe unto the Water-men; that Com<g ref="char:EOLhyphen"/>pany hath alwaies beene a Nurſery of able Sea-men.</p>
+            <p>By this courſe ye ſhall not only do what every Chriſtian ought to be carefull of, your duty to God and your King, but alſo exceedingly relieve your Countrey, and benefit your ſelves; for you know the great decay of trade, and how the Merchants (by whom the moſt of you live) are al<g ref="char:EOLhyphen"/>moſt beggered, which hath brough ſuch great want upon many of you, and your poore families; only the Sea-men have not been ſo poore ſince the memory of man, and ſure<g ref="char:EOLhyphen"/>ly becauſe of our diſobedience unto our Soveraigne King <hi>Charles</hi> is this great curſe come upon us, we were firſt uſed to ſerve the Parliaments wicked turnes againſt the King: Returne then honeſt hearts unto your King, and doubt not but you will recover your loſ<g ref="char:EOLhyphen"/>ſes, and gaine Gods bleſſing upon you; we have great encouragements to gather and keepe together to doe this good worke, wee have able and good Churchmen with us, who have not turned about with the winds of new doctrines; we have many well borne Gentlemen amongſt as Com<g ref="char:EOLhyphen"/>manders, we have the Kings Son, his Highneſſe the Doke of Yorke our Admirall; we ſtand up for our Religion, our King, and our liberties, all which the Sectaries trample upon, and would pull downe.</p>
+            <p>His Highneſſe the Prince of Wales hath declared. 1. The reeſtabliſh<g ref="char:EOLhyphen"/>ment of the Proteſtant Religion. 2. To reſcue his Majeſty from impriſon<g ref="char:EOLhyphen"/>ment that he may ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the Parliament, and enjoy his rights. 3. That the two Houſes of Parliament may be reſtored unto their fieedome. 4. That the King <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome may be eaſed of Excize. 5. That the Army of Secta<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s may be dub nded. 6. That all t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xes and Ceſſes may be taken off. 7. That the narrow Seas may be protected for the carrying on of a free trade for Merch ants ſhips. 8. I hat the City of London may enjoy their Privi<g ref="char:EOLhyphen"/>ledg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and rights: Theſe are the th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gs we ſtand up for, and doubt not through Gods bleſſing to go through ſtitch: If you like theſe matters, then a Gods name ſend us your helpe; and ſo I commend me heartily unto you all, and pray God to direct you unto this duty, that our Land may againe rejoyce under the Government of our Soveraigne, which now mournes under the Tyranny of the Parliament: for when the Righteous are in authority the People rejoyce; but when the wicked bea<g ref="char:EOLhyphen"/>reth rule the people mourne, Prov. 20.2.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Downes,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 10. 1648.</date>
+               </dateline>
+               <signed>W. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
